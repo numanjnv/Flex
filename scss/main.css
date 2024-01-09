@@ -436,4 +436,13 @@ html {
   font-weight: 500;
   line-height: 24px;
   width: 262px;
+}
+
+.main-wrapper {
+  display: inline-block;
+}
+
+.texts-img {
+  margin-left: 700px;
+  display: inline-block;
 }/*# sourceMappingURL=main.css.map */
